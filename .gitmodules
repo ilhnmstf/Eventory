@@ -1,0 +1,9 @@
+[submodule "event-service"]
+	path = event-service
+	url = https://github.com/ilhnmstf/event_service.git
+[submodule "user-service"]
+	path = user-service
+	url = git@github.com:ilhnmstf/user_service.git
+[submodule "infra"]
+	path = infra
+	url = https://github.com/ilhnmstf/infra.git
