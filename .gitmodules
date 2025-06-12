@@ -7,3 +7,6 @@
 [submodule "infra"]
 	path = infra
 	url = https://github.com/ilhnmstf/infra.git
+[submodule "news-feed-service"]
+	path = news-feed-service
+	url = https://github.com/ilhnmstf/news_feed_service.git
